@@ -1,2 +1,2 @@
 # cocos-nucifera
-Gateway Embedded Enclosure - Mechanical Design
+Embedded Stacked Enclosure - Mechanical Design

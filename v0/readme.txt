@@ -2,8 +2,8 @@ This folder contains the design files for the embedded stacked enclosure:
 
 readme.txt     >>>> this file
 LICENSE.txt    >>>> the license file in plain txt format
-PP-4-1-0.zip   >>>> the 3d model for the piece part design in pdf3d, step and stl formats
-SRC-4-1-0.zip  >>>> the source file(s) for the mechanical design last edited in FreeCad 0.16
+PP-5-1-0.zip   >>>> the 3d model for the piece part design in pdf3d, step and stl formats
+SRC-5-1-0.zip  >>>> the source file(s) for the mechanical design last edited in FreeCad 0.16
 
 Design status at the time of release: a couple of nylon 3d prints were prototyped to prove the design and get the "look and feel" experience.
 
